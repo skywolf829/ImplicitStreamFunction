@@ -1,7 +1,21 @@
 # Neural Stream Function
-This project uses neural networks to extract stream functions from vector fields, which can be visualized to understand the flow. The paper was submitted to Pacific Visualization 2023 and is under review.
+This project uses neural networks to extract stream functions from vector fields, which can be visualized to understand the flow. The paper was accepted to Pacific Visualization 2023.
 
 ![alt text](https://github.com/skywolf829/NeuralStreamFunction/blob/main/Figures/streamfunctions.jpg)
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@Article{wurster23_neuralstreamfunctions,
+      author={Wurster, Skylar W. and Guo, Hanqi and Peterka, Tom and Shen, Han-Wei},
+      booktitle={2023 IEEE 16th Pacific Visualization Symposium (PacificVis)}, 
+      title={Neural Stream Functions}, 
+      year={2023},
+      pages={132-141},
+      doi={10.1109/PacificVis56936.2023.00022}
+}</code></pre>
+  </div>
+</section>
 
 ## Installation
 
