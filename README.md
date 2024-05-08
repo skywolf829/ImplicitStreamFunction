@@ -6,7 +6,7 @@ This project uses neural networks to extract stream functions from vector fields
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@Article{wurster23_neuralstreamfunctions,
+    <pre><code>@INPROCEEDINGS{wurster23_neuralstreamfunctions,
       author={Wurster, Skylar W. and Guo, Hanqi and Peterka, Tom and Shen, Han-Wei},
       booktitle={2023 IEEE 16th Pacific Visualization Symposium (PacificVis)}, 
       title={Neural Stream Functions}, 
